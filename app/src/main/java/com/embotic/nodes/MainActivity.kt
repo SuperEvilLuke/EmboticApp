@@ -142,7 +142,7 @@ class MainActivity : AppCompatActivity() {
                 return true
             }
         }
-        webView.loadUrl("https://www.youtube.com/watch?v=U2Fjfqm-7g8&pp=ygULbWF4d2VsbCBjYXQ%3D/")
+        webView.loadUrl("https://dash.embotic.xyz")
     }
 
     /** Called when leaving the activity. */
